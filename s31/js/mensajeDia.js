@@ -1,3 +1,3 @@
 var dia="a todos"
-print ("Buenos días!!")
+print (dia + "Buenos días!!")
 alert(dia);
